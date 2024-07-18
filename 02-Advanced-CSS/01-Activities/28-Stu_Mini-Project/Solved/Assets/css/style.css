@@ -46,7 +46,7 @@ article.card {
 
 h2.card-header {
     position: relative;
-    /* margin: -10px 0 -10px, 0; */
+    margin: -1rem 0 .5rem 0;
     border-style: solid;
     text-align: center;
     color: var(--dark);
